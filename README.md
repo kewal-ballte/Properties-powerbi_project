@@ -119,4 +119,4 @@ My Project
 * Enable filtering using the Agent slicer
 
   ## Properties + Agents Dashboard
-  !Properties + Agents Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20%2B%20Agents%20Dashboard.png)
+  ![Properties + Agents Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20%2B%20Agents%20Dashboard.png)
