@@ -36,6 +36,22 @@ My Project
 ## Properties Overview Dashboard
 ![Properties Overview Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20Overview%20Dashboard.png)
 
+## Property Type & Furnishing Analysis Dashboard
 
+🔹 Key Objectives of This Dashboard
+
+* Analyze the distribution of properties by type
+
+* Compare average lot size across different property categories
+
+* Understand furnishing status mix in the overall portfolio
+
+* Track total parking space availability
+
+* Enable dynamic filtering using the Furnishing Status slicer
+
+  ## Property Type & Furnishing Analysis Dashboard
+  ![Property Type & Furnishing Analysis Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Property%20Type%20%26%20Furnishing%20Analysis%20Dashboard.png)
+  
 
 
