@@ -52,6 +52,39 @@ My Project
 
   ## Property Type & Furnishing Analysis Dashboard
   ![Property Type & Furnishing Analysis Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Property%20Type%20%26%20Furnishing%20Analysis%20Dashboard.png)
-  
 
+  ## Sales & Market Trends Dashboard
+  🔹 Key Objectives of This Dashboard
+
+* Track total listed and total sold properties
+
+* Monitor monthly listing trends over time
+
+* Compare average listed prices across cities
+
+* Visualize regional property distribution on a map
+
+* Enable time-based filtering using the Listing Month slicer
+
+  ## Sales & Market Trends Dashboard
+  ![Sales & Market Trends Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Sales%20%26%20Market%20Trends%20Dashboard.png)
+
+  ## Agents Performance Dashboard
+
+  🔹 Key Objectives of This Dashboard
+
+* Track the total number of active agents
+
+* Analyze years of experience distribution across agents
+
+* Monitor license distribution by region
+
+* View office allocation of agents
+
+* Enable filtering using the OfficeID slicer
+
+* Provide direct access to agent contact details
+
+## Agents Performance Dashboard
+ ![Agents Performance Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Agents%20Performance%20Dashboard.png)
 
