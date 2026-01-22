@@ -195,5 +195,5 @@ Enable dynamic filtering using the NeighborhoodID slicer
 * Enable filtering using the OfficeID slicer
 
 ## Offices Dashboard
-![Offices Dashboard(2) ](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Offices%20Dashboard%20(2).pn)
+![Offices Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Offices%20Dashboard%20(2).png)
 
