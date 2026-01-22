@@ -120,3 +120,80 @@ My Project
 
   ## Properties + Agents Dashboard
   ![Properties + Agents Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20%2B%20Agents%20Dashboard.png)
+
+  ## Offices Dashboard
+
+  🔹 Key Objectives of This Dashboard
+
+* Track total number of offices
+
+* Monitor average lot size handled per office
+
+* Analyze total properties managed by each office
+
+* Compare bedroom capacity by office
+
+* View city-wise office distribution
+
+* Enable filtering using the OfficeID slicer
+
+## Offices Dashboard
+![Offices Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Offices%20Dashboard.png)
+
+## Neighborhood + Properties
+
+🔹 Key Objectives of This Dashboard
+
+Track average properties per neighborhood
+
+Identify neighborhoods with multiple properties
+
+Compare average lot size across neighborhoods
+
+Analyze bedroom distribution by neighborhood
+
+Monitor sales trends over time by neighborhood
+
+Enable dynamic filtering using the NeighborhoodID slicer
+
+## Neighborhood + Properties
+![ Neighborhood + Properties](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Neighborhood%20%2B%20Properties.png)
+
+## Owners + Agents Dashboard
+
+🔹 Key Objectives of This Dashboard
+
+* Track average owners per agent
+
+* Identify owners working with multiple agents
+
+* Monitor monthly sales changes using a waterfall chart
+
+* Compare property volume by agent
+
+* Track average bedrooms vs target using a gauge
+
+* Enable filtering using the AgentID slicer
+
+## Owners + Agents Dashboard
+![ Owners + Agents Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Owners%20%2B%20Agents%20Dashboard.png)
+
+## Offices Dashboard
+
+🔹 Key Objectives of This Dashboard
+
+* Track average agents per office
+
+* Identify maximum agents in any office
+
+* Analyze property distribution by office
+
+* Monitor monthly sales trends by office
+
+* Compare agents vs properties per office
+
+* Enable filtering using the OfficeID slicer
+
+## Offices Dashboard
+![Offices Dashboard(2) ](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Offices%20Dashboard%20(2).pn)
+
