@@ -16,19 +16,25 @@ My Project
 
 
 1) Properties Overview Dashboard
+   
+🔹 Key Objectives of This Dashboard
 
-Purpose:
-Provides a high-level snapshot of the real estate portfolio, covering total listings, pricing, and geographic distribution.
+* Track total number of properties
 
-Insights:
+* Monitor total market value of all listings
 
-* The dataset contains 10,000 properties with a combined market value of 5B+.
+* Analyze average listed price
 
-* Dallas leads in property count, while Austin and Houston show competitive average prices.
+* Understand heating type distribution using a waterfall chart
 
-* Properties with central and gas heating dominate the portfolio.
+* Compare property volume by city
 
-* Listed prices closely track market value, showing strong pricing consistency across cities.
+* Analyze listed price vs market value by city
+
+* Enable filtering using the Property Type slicer
+
+## Properties Overview Dashboard
+![Properties Overview Dashboard](https://https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20Overview%20Dashboard.png)
 
 
 
