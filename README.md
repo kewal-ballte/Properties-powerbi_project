@@ -88,3 +88,35 @@ My Project
 ## Agents Performance Dashboard
  ![Agents Performance Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Agents%20Performance%20Dashboard.png)
 
+## Neighborhood + Properties Dashboard
+🔹 Key Objectives
+
+* Track total neighborhoods and total properties selected
+
+* Analyze property count by neighborhood
+
+* Compare lot size vs bedroom distribution
+
+* Monitor average listed price by neighborhood
+
+* Enable filtering using the Neighborhood slicer
+
+ ## Neighborhood + Properties Dashboard
+![Neighborhood + Properties Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Neighborhood%20%2B%20Properties%20Dashboard.png)
+
+## Properties + Agents Dashboard
+
+🔹 Key Objectives
+
+* Track total properties, total agents, and avg properties per agent
+
+* Analyze property count by office
+
+* Monitor property sales trends by agent
+
+* Compare property volume by agent and office
+
+* Enable filtering using the Agent slicer
+
+  ## Properties + Agents Dashboard
+  !Properties + Agents Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20%2B%20Agents%20Dashboard.png)
