@@ -34,7 +34,7 @@ My Project
 * Enable filtering using the Property Type slicer
 
 ## Properties Overview Dashboard
-![Properties Overview Dashboard](https://https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20Overview%20Dashboard.png)
+![Properties Overview Dashboard](https://github.com/kewal-ballte/Properties-powerbi_project/blob/main/Properties%20Overview%20Dashboard.png)
 
 
 
